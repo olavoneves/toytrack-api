@@ -10,8 +10,11 @@ O projeto implementa um **CRUD completo** da entidade `Brinquedo`, com persistê
 
 | Nome | RM |
 |------|----|
-| Nome do integrante 1 | RM000000 |
-| Nome do integrante 2 | RM000000 |
+| Olavo Porto Neves          | RM563558 |
+| Pedro Henrique Dias França | RM561940 |
+| Luiz Gustavo Gonçalves     | RM564495 |
+| Altamir Lima               | RM562906 |
+| Felipe Conte               | RM562248 |
 
 ---
 
@@ -79,7 +82,7 @@ server.port=8080
 
 > 📸 Print — tela do Spring Initializr com as dependências selecionadas:
 >
-> ![Spring Initializr](caminho/para/seu/print-spring-initializr.png)
+> ![Spring Initializr](./assets/Captura de tela 2026-04-30 113111.pngg)
 
 Dependências utilizadas (`pom.xml`):
 
