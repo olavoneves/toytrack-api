@@ -82,7 +82,7 @@ server.port=8080
 
 > 📸 Print — tela do Spring Initializr com as dependências selecionadas:
 >
-> ![Spring Initializr](assets/spring-initializir.png)
+> ![Spring Initializr](assets/spring-initializr.png)
 
 Dependências utilizadas (`pom.xml`):
 
@@ -172,7 +172,7 @@ Controller → Service → Repository
 
 > 📸 Print — requisição POST no Postman com status `201 Created`:
 >
-> ![POST Brinquedo](caminho/para/seu/print-post.png)
+> ![POST Brinquedo](assets/post.png)
 
 ---
 
@@ -206,7 +206,7 @@ Controller → Service → Repository
 
 > 📸 Print — requisição GET no Postman retornando a lista com status `200 OK`:
 >
-> ![GET todos](caminho/para/seu/print-get-todos.png)
+> ![GET todos](assets/get-todos.png)
 
 ---
 
@@ -232,7 +232,7 @@ Controller → Service → Repository
 
 > 📸 Print — busca por ID no Postman com status `200 OK`:
 >
-> ![GET por ID](caminho/para/seu/print-get-id.png)
+> ![GET por ID](assets/get-id.png)
 
 ---
 
@@ -268,7 +268,7 @@ Controller → Service → Repository
 
 > 📸 Print — requisição PUT no Postman com status `200 OK`:
 >
-> ![PUT Brinquedo](caminho/para/seu/print-put.png)
+> ![PUT Brinquedo](assets/put.png)
 
 ---
 
@@ -281,7 +281,7 @@ Controller → Service → Repository
 
 > 📸 Print — requisição DELETE no Postman com status `204 No Content`:
 >
-> ![DELETE Brinquedo](caminho/para/seu/print-delete.png)
+> ![DELETE Brinquedo](assets/delete.png)
 
 ---
 
@@ -302,7 +302,7 @@ SELECT * FROM TDS_TB_Brinquedos;
 
 > 📸 Print — resultado do `SELECT *` no SQL Developer confirmando a persistência:
 >
-> ![SQL Developer](caminho/para/seu/print-sql-developer.png)
+> ![SQL Developer](assets/sqldeveloper-post.png)
 
 ---
 
