@@ -82,7 +82,7 @@ server.port=8080
 
 > 📸 Print — tela do Spring Initializr com as dependências selecionadas:
 >
-> ![Spring Initializr](./assets/Captura de tela 2026-04-30 113111.pngg)
+> ![Spring Initializr](assets/spring-initializir.png)
 
 Dependências utilizadas (`pom.xml`):
 
