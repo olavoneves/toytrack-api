@@ -74,7 +74,7 @@ server.port=8080
 
 > 📸 Print — configuração do `application.properties`:
 >
-> ![application.properties](caminho/para/seu/print-application-properties.png)
+> ![application.properties](assets/application-properties.png)
 
 ---
 
